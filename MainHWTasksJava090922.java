@@ -43,7 +43,17 @@ public class MainHWTasksJava090922 {
         } else {
             System.out.println("Some numbers are equal");
         }
-        }
+
+        //Вася спит днем если он не работает или у него отпуск. Переменная
+        // weekday(рабочий день) =true если это рабочий день, переменная vacation = true
+        // если у него отпуск. Написать метод, возвращающий true если Вася спит.
+
+        // isSleeping( boolean weekday, boolean vacation)
+        //isSleeping(false,false)->true
+        //isSleeping(true,false)->false
+        //isSleeping(false,true)->true
+
+    }
     }
 
 

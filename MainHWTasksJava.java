@@ -1,4 +1,4 @@
-package HW;
+package TasksJava;
 
 public class MainHWTasksJava {
     public static void main(String[] args) {
