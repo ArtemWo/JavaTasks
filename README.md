@@ -9,4 +9,3 @@
 - - - [Homework 25.11.22 (2)](https://github.com/ArtemWo/Tasks-Java35m-Prof/tree/master/HW_TasksJava25_11_22_2) 
 - - - [Homework 9.12.22 MAP ](https://github.com/ArtemWo/Tasks-Java35m-Prof/tree/master/HW_TasksJava9_12_22_MAP) 
 - - - [Homework 16.12.22  ](https://github.com/ArtemWo/Tasks-Java35m-Prof/tree/master/HW_TasksJava16_12_22)
-- - - [Homework 21_10_22  ](https://github.com/ArtemWo/Tasks-Java35m-Prof/tree/master/HWTasksJava21_10_22)
